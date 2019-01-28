@@ -8,6 +8,5 @@ function whisper(string)
 }
 function logShout(string)
 {
-  var = 'HELLO'
-  console.log()
+  
 }
