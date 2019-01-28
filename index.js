@@ -1,4 +1,4 @@
-var = upper
+var uppercase , lowercase
 
 function shout(string) 
 {
